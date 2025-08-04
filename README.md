@@ -70,6 +70,15 @@ The model is saved as `banglore_home_prices_model.pkl` and uses `columns.json` f
 ## 🚀 How to Run the Project
 
 1. **Clone the Repository**
-```bash
+
 git clone https://github.com/yourusername/real-estate-price-prediction.git
 cd real-estate-price-prediction
+Install Dependencies
+pip install -r requirements.txt
+Or manually:
+pip install flask numpy pandas scikit-learn
+Run the Flask Server
+cd Server
+python server.py
+Open the Frontend
+Open Client/app.html in your browser and use the interface to test predictions.
