@@ -24,9 +24,9 @@ Developed an end-to-end machine learning system to predict residential property 
 ```
 BHP2/
 ├── Client/
-│   ├── Snapshot1.png
-│   ├── Snapshot2.png
-│   ├── Snapshot3.png
+│   ├── Snapshot 1.png
+│   ├── Snapshot 2.png
+│   ├── Snapshot 3.png
 │   ├── app.css
 │   ├── app.html
 │   └── app.js
@@ -101,13 +101,13 @@ The project uses Bangalore house price data (`bhp.csv`) containing information a
 ## Screenshots
 
 ### User Interface
-![Snapshot 1](Client/Snapshot 1.png)
+![Snapshot 1](Client/Snapshot%201.png)
 
 ### Price Prediction Interface
-![Snapshot 2](Client/Snapshot 2.png)
+![Snapshot 2](Client/Snapshot%202.png)
 
 ### Results Display
-![Snapshot 3](Client/Snapshot 3.png)
+![Snapshot 3](Client/Snapshot%203.png)
 
 ## API Endpoints
 
@@ -135,9 +135,6 @@ The Linear Regression model was trained and validated on Bangalore real estate d
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
@@ -146,8 +143,3 @@ For questions or suggestions, please feel free to reach out or create an issue i
 ---
 
 **Note**: This project was developed for educational and demonstration purposes. The model's predictions should be used as estimates and not as definitive property valuations.
-Run the Flask Server
-cd Server
-python server.py
-Open the Frontend
-Open Client/app.html in your browser and use the interface to test predictions.
