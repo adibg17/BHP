@@ -101,13 +101,13 @@ The project uses Bangalore house price data (`bhp.csv`) containing information a
 ## Screenshots
 
 ### User Interface
-![Snapshot 1](Client/Snapshot1.png)
+![Snapshot 1](Client/Snapshot 1.png)
 
 ### Price Prediction Interface
-![Snapshot 2](Client/Snapshot2.png)
+![Snapshot 2](Client/Snapshot 2.png)
 
 ### Results Display
-![Snapshot 3](Client/Snapshot3.png)
+![Snapshot 3](Client/Snapshot 3.png)
 
 ## API Endpoints
 
