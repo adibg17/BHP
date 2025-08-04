@@ -101,13 +101,13 @@ The project uses Bangalore house price data (`bhp.csv`) containing information a
 ## Screenshots
 
 ### User Interface
-![Snapshot 1](Client/Snapshot%201.png)
+![Snapshot 1](BHP2/Client/Snapshot%201.png)
 
 ### Price Prediction Interface
-![Snapshot 2](Client/Snapshot%202.png)
+![Snapshot 2](BHP2/Client/Snapshot%202.png)
 
 ### Results Display
-![Snapshot 3](Client/Snapshot%203.png)
+![Snapshot 3](BHP2/Client/Snapshot%203.png)
 
 ## API Endpoints
 
@@ -135,6 +135,9 @@ The Linear Regression model was trained and validated on Bangalore real estate d
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
